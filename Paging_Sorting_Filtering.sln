@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Paging_Sorting_Filtering", "Paging_Sorting_Filtering\Paging_Sorting_Filtering.csproj", "{A2B36533-A599-4353-BAF6-879B8EA7D8AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A2B36533-A599-4353-BAF6-879B8EA7D8AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2B36533-A599-4353-BAF6-879B8EA7D8AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2B36533-A599-4353-BAF6-879B8EA7D8AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2B36533-A599-4353-BAF6-879B8EA7D8AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {531AA354-394F-4C37-B116-FDDF38B3D2C2}
+	EndGlobalSection
+EndGlobal
